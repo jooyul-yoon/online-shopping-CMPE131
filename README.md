@@ -2,7 +2,7 @@
 
 ## User's Guide
 
-![img](online-shopping/image/goodeatz.JPG)
+<img src="image/goodeatz.JPG" width="500">
 
 ## Project Credits:
 
@@ -44,7 +44,7 @@ Welcome to the User Guide for GOOD EATZ MARKET. This user guide is created to pr
 ## 1.1 Display
 
 At first glance, the user sees the webpage. It has a home page, login page, sign up page, and shop page available for the customer. These functions are discussed in detail in the following sections.
-![](online-shopping/documentation/screenshots/home.png)
+<img src="documentation/screenshots/home.png" width="500">
 
 # 2. Registration
 
@@ -55,7 +55,7 @@ Upon arriving at our home page, the client has the option to click on “Login�
 - Click on Login from the home page
 - Insert user name, email, and password
 - Click in “register”
-  ![](online-shopping/documentation/screenshots/register.png)
+  <img src="documentation/screenshots/register.png" width="500">
 
 ## 2.2 Login
 
@@ -63,8 +63,7 @@ Upon arriving at our home page, the client has the option to click on “Login�
 - Insert the username and password chosen previously
 - Click in “login”
 - Client is redirected to the home page on their account
-
-![](online-shopping/documentation/screenshots/login.png)
+  <img src="documentation/screenshots/login.png" width="500">
 
 # 3. Shopping
 
@@ -103,9 +102,8 @@ When the user enters into the shopping page, they will see a selection of items 
 - Move the cursor to the text box and right click.
 - Type in the amount of items you wish to remove.
 - Move the cursor to the remove box and right click.
-
-![](online-shopping/documentation/screenshots/place-order.png)
-![](online-shopping/documentation/screenshots/remove.png)
+  <img src="documentation/screenshots/place-order.png" width="500">
+  <img src="documentation/screenshots/remove.png" width="150">
 
 ## 4. Checkout
 
@@ -120,8 +118,7 @@ When the user enters into the shopping page, they will see a selection of items 
 
 - Scroll down in shopping cart page until you see a Blue Check-out button
 - Move Cursor to Check-out button, Right click to check out.
-
-![](online-shopping/documentation/screenshots/checkout.png)
+  <img src="documentation/screenshots/checkout.png" width="500">
 
 ### 4.1 Shopping cart
 
@@ -135,9 +132,8 @@ When the user enters into the shopping page, they will see a selection of items 
 - Complete order by left click ”Place your order”
 - Done
 
-![](online-shopping/documentation/screenshots/checkout.png)
-![](online-shopping/documentation/screenshots/place-order.png)
-
+<img src="documentation/screenshots/checkout.png" width="500">
+<img src="documentation/screenshots/place-order.png" width="500">
 ## 5. Use Scenarios
 
 - Unregistered user wanting to shop
